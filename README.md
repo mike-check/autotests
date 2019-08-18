@@ -22,7 +22,7 @@
 ### Install 
 For correct tests exercution you need to have `python` v. 3.6+. For install requirements run
 
-`pip3 install -r requirements.txt`
+`pip install -r requirements.txt`
 
 ### Run
 Command to run tests:
@@ -32,4 +32,4 @@ Command to run tests:
 Only Chrome and Firefor browsers are supported.
 
 ### Report
-Report `index.html` will be in `report` folder. Example is [here](http://htmlpreview.github.io/?https://github.com/mike-check/autotests/blob/master/report/index.html)
+Report `index.html` will be in `report` folder. Example is [here](http://htmlpreview.github.io/?https://github.com/mike-check/autotests/blob/master/report/index.html).
